@@ -1,7 +1,10 @@
 {
   "tokenSetOrder": [
+    "primitives/typeface-inter",
+    "primitives/scale",
     "primitives/radix-colors",
     "theme/light",
-    "theme/dark"
+    "theme/dark",
+    "typography/default"
   ]
 }
