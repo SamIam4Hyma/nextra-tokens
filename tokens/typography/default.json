@@ -582,54 +582,6 @@
         },
         "type": "typography"
       }
-    },
-    "d3": {
-      "default": {
-        "value": {
-          "letterSpacing": "{brand.letterSpacing.unitless.heading.tight} * 100%",
-          "lineHeight": "{brand.lineHeights.unitless.heading.default} * 100%",
-          "fontFamily": "{brand.fontFamily.heading}",
-          "fontWeight": "{brand.fontWeight.heading.default}",
-          "fontSize": "{brand.fontSize.d3}",
-          "paragraphSpacing": "{brand.paragraphSpacing.default}",
-          "textDecoration": "{brand.textDecoration.default}",
-          "textCase": "{brand.textCase.default}",
-          "paragraphIndent": "{brand.paragraphIndent.default}"
-        },
-        "type": "typography"
-      }
-    },
-    "d2": {
-      "default": {
-        "value": {
-          "letterSpacing": "{brand.letterSpacing.unitless.heading.tight} * 100%",
-          "lineHeight": "{brand.lineHeights.unitless.heading.default} * 100%",
-          "fontFamily": "{brand.fontFamily.heading}",
-          "fontWeight": "{brand.fontWeight.heading.default}",
-          "fontSize": "{brand.fontSize.d2}",
-          "paragraphSpacing": "{brand.paragraphSpacing.default}",
-          "textDecoration": "{brand.textDecoration.default}",
-          "textCase": "{brand.textCase.default}",
-          "paragraphIndent": "{brand.paragraphIndent.default}"
-        },
-        "type": "typography"
-      }
-    },
-    "d1": {
-      "default": {
-        "value": {
-          "letterSpacing": "{brand.letterSpacing.unitless.heading.tight} * 100%",
-          "lineHeight": "{brand.lineHeights.unitless.heading.default} * 100%",
-          "fontFamily": "{brand.fontFamily.heading}",
-          "fontWeight": "{brand.fontWeight.heading.default}",
-          "fontSize": "{brand.fontSize.d1}",
-          "paragraphSpacing": "{brand.paragraphSpacing.default}",
-          "textDecoration": "{brand.textDecoration.default}",
-          "textCase": "{brand.textCase.default}",
-          "paragraphIndent": "{brand.paragraphIndent.default}"
-        },
-        "type": "typography"
-      }
     }
   },
   "NOTES": {
