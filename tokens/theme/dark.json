@@ -1,0 +1,88 @@
+{
+  "theme": {
+    "docs": {
+      "background-color": {
+        "value": "#1e1e1e",
+        "type": "color"
+      },
+      "text-color": {
+        "default": {
+          "value": "{colors.gray.dark.12}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{colors.gray.light.7}",
+          "type": "color"
+        },
+        "navigation": {
+          "not-selected": {
+            "default": {
+              "value": "{colors.gray.dark.11}",
+              "type": "color"
+            },
+            "interactive": {
+              "value": "{colors.gray.dark.12}",
+              "type": "color"
+            },
+            "hover-bg-color": {
+              "value": "{colors.gray.dark.5}",
+              "type": "color"
+            }
+          },
+          "selected": {
+            "default": {
+              "value": "{colors.gray.light.6}",
+              "type": "color"
+            },
+            "interactive": {
+              "value": "{colors.gray.light.6}",
+              "type": "color"
+            },
+            "bg-color": {
+              "value": "{colors.blue-cyan.dark.4}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "callout": {
+        "pro": {
+          "background-color": {
+            "value": "{colors.purple.dark-alpha.4}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{theme.docs.text-color.default}",
+            "type": "color"
+          },
+          "title": {
+            "text-color": {
+              "value": "{colors.purple.light.7}",
+              "type": "color"
+            }
+          },
+          "emoji": {
+            "value": "✦",
+            "type": "other"
+          },
+          "border": {
+            "value": {
+              "color": "{theme.docs.callout.pro.title.text-color}",
+              "width": "{theme.docs.callout.border-width}",
+              "style": "solid"
+            },
+            "type": "border"
+          }
+        },
+        "border-radius": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "border-width": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}

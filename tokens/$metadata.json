@@ -1,0 +1,7 @@
+{
+  "tokenSetOrder": [
+    "primitives/radix-colors",
+    "theme/light",
+    "theme/dark"
+  ]
+}
