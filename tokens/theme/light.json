@@ -74,6 +74,30 @@
             "type": "border"
           }
         },
+        "info": {
+          "border": {
+            "value": {
+              "color": "{theme.docs.callout.info.title.text-color}",
+              "width": "{theme.docs.callout.border-width}",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "background-color": {
+            "value": "{colors.blue-cyan.light.4}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{theme.docs.text-color.default}",
+            "type": "color"
+          },
+          "title": {
+            "text-color": {
+              "value": "{colors.blue-cyan.dark.7}",
+              "type": "color"
+            }
+          }
+        },
         "border-radius": {
           "value": "8px",
           "type": "dimension"
